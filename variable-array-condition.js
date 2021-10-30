@@ -1,0 +1,1 @@
+var mangoPrice = 34;
