@@ -14,3 +14,14 @@ iteams.push('leptop');
 iteams.pop();
 console.log(iteams);
 
+// conditional
+if (iteams.length >= 55) {
+               console.log('you have too many stuff on your desk');
+               
+}
+else if (iteams.length == 5) {
+               console.log('Wow! You have a clean desk');
+}
+else{
+               console.log('you have some stuff on your desk')
+}
