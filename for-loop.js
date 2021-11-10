@@ -19,6 +19,12 @@ for (var roastGiven = 0; roastGiven < 7; roastGiven++) {
 //                console.log(i);
 // }
 
-for (i = 1; i <= 10; i++) {
-               console.log(i); 
+// odd numbers
+// for (i = 1; i <= 10; i = i + 2) {
+//                console.log(i); 
+// }
+
+// even number 
+for (i = 0; i <= 20; i = i + 2) {
+               console.log(i);
 }
