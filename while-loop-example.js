@@ -14,6 +14,13 @@ while (number <= 7) {
 // recap while loop
 var num = 1; // loop variable
 while (num <= 10) {
-               console.log(num);
+               // console.log(num);
                num++;
+}
+
+//odd number 
+var group = 1;
+while (group <= 20) {
+               console.log(group);
+               group = group + 2;
 }
